@@ -1,7 +1,7 @@
-import Register from "./Register";
+import Register from "./Register.jsx";
 
 function App() {
-  <Register />;
+  return <Register />;
 }
 
 export default App;
